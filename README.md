@@ -46,7 +46,7 @@
 	</a>
 </div>
 
-## Ferramentas que utilizo
+## 🛠 Ferramentas que utilizo
 
 . | Java | C | C++ | JavaScript | PHP | HTML | CSS | Assembly
 -- | ---- | -- | --- | ---------- | --- | ---- | --- | --------
