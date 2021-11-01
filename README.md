@@ -46,6 +46,18 @@
 	</a>
 </div>
 
+## IDE's que utilizo
+
+. | Java | C | C++ | JavaScript | PHP | HTML | CSS | Assembly
+-- | ---- | -- | --- | ---------- | --- | ---- | --- | --------
+Visual Studio | | ✔ | ✔ | | | | | ✔
+Visual Studio Code | | | | ✔ | ✔ | ✔ | ✔ | 
+Eclipse | ✔ | | | | | | |
+CodeBlocks | | ✔ | ✔ | | | | | 
+Notepad++ | | | | ✔ | ✔ | ✔ | ✔ | ✔
+MASM Editor | | | | | | | | ✔
+ 
+
 <hr />
 
 <div>
