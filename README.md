@@ -5,7 +5,7 @@
 - 🔭 Atualmente trabalhando com GameDev e Fullstack.
 - 🌱 Estou estudando Vue
 
-## Habilidades
+## 🌟Habilidades
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,14 +20,14 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> 
 </div>
 
-## Sistemas Operacionais
+## 💻 Sistemas Operacionais
 <div>
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 	<sup>(VM)</sup>
 </div>
 
-## Meus canais
+## 🌐 Meus canais
 <div>
 	<a href="https://twitter.com/DrXGB" target="_blank">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
