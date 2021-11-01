@@ -61,8 +61,8 @@ MASM Editor | | | | | | | | ✔
 <hr />
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=drxgb&theme=highcontrast&show_icons=true&count_private=true" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drxgb&theme=blue-green&layout=compact" />
+	<img src="https://github-readme-stats.vercel.app/api?username=drxgb&theme=highcontrast&show_icons=true&count_private=true&hide_title=ture" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drxgb&theme=highcontrast&layout=compact&custom_title=Linguagens Utilizadas&langs_count=10" />
 </div>
 
 <!--
