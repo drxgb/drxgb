@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> 
 </div>
 
-Além destas habilidades ora supracitadas, também trabalho com Desenvolvimento de Jogos. Os mototres que utilizo são:
+Além destas habilidades ora supracitadas, também trabalho com Desenvolvimento de Jogos. Os motores que utilizo são:
 - RPG Maker 2000 com a extensão Destiny Patch 2.0
 - RPG Maker 2003
 - Godot
