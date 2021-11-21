@@ -2,7 +2,7 @@
 
 - ✔ Analista e Desenvolvedor de Sistemas.
 - 🔭 Atualmente trabalhando com GameDev e Web Fullstack.
-- 🌱 Estou estudando Vue e Godot
+- 🌱 Estou estudando Vue e TailwindCSS
 
 ## 🌟Habilidades
 <div>
