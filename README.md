@@ -1,7 +1,7 @@
 # 🥕 Bem-vindos ao GitHub do Cenourão! 😉
 
 - ✔ Analista e Desenvolvedor de Sistemas.
-- 🔭 Atualmente trabalhando com GameDev e Web Fullstack.
+- 🔭 Atualmente trabalhando com GameDev e XenForo (Fullstack).
 - 🌱 Estou estudando Vue e TailwindCSS
 
 ## 🌟Habilidades
