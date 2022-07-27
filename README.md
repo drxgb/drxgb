@@ -2,7 +2,12 @@
 
 - ✔ Analista e Desenvolvedor de Sistemas.
 - 🔭 Atualmente trabalhando com GameDev e XenForo (Fullstack).
-- 🌱 Estou estudando Vue e TailwindCSS
+- 🌱 Estou estudando:
+	- Kotlin
+	- Vue
+	- TailwindCSS
+- 👯 Estou colaborando com:
+	- [Condado Braveheart](https://github.com/CondadoBraveheart)
 
 ## 🌟Habilidades
 <div>
