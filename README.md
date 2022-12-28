@@ -8,6 +8,7 @@
 	- TailwindCSS
 - 👯 Estou colaborando com:
 	- [Condado Braveheart](https://github.com/CondadoBraveheart)
+	- [OZ Digital](https://github.com/Dominikanes)
 
 ## 🌟Habilidades
 <div>
