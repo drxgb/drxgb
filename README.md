@@ -7,7 +7,7 @@
 	- Vue
 	- TailwindCSS
 - 👯 Estou colaborando com:
-	- [Condado Braveheart](https://github.com/CondadoBraveheart)
+	- [Condado Braveheart](https://condadobraveheart.com/forum)
 	- [OZ Digital](https://github.com/Dominikanes)
 
 ## 🌟Habilidades
