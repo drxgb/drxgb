@@ -1,7 +1,7 @@
 # 🥕 Bem-vindos ao GitHub do Cenourão! 😉
 
 - ✔ Analista e Desenvolvedor de Sistemas.
-- 💼 Aberto para trabalhos freelancer.
+- 💼 Fechado para trabalhos freelancer.
 - 🔭 Atualmente trabalhando com GameDev e XenForo (Fullstack).
 - 🌱 Estou estudando:
 	- Kotlin
