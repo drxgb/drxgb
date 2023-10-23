@@ -4,12 +4,12 @@
 - 💼 Fechado para trabalhos freelancer.
 - 🔭 Atualmente trabalhando com GameDev e XenForo (Fullstack).
 - 🌱 Estou estudando:
-	- Kotlin
 	- Vue
 	- TailwindCSS
 - 👯 Estou colaborando com:
 	- [Condado Braveheart](https://condadobraveheart.com/forum)
 	- [OZ Digital](https://github.com/Dominikanes)
+ 	- [EasyRPG](https://github.com/EasyRPG)
 
 ## 🌟Habilidades
 <div>
