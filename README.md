@@ -35,6 +35,8 @@ Além destas habilidades ora supracitadas, também trabalho com Desenvolvimento 
 	<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 	<sup>(VM)</sup>
+	<img src="https://img.shields.io/badge/Debian-E92420?style=for-the-badge&logo=debian&logoColor=white" />
+	<sup>(VM)</sup>
 </div>
 
 ## 🌐 Meus canais
